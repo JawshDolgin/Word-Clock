@@ -1,5 +1,6 @@
 # word-clock
-Large-scale LED word clock with additional features such as scrolling message, rainbow color, etc. See .pdf for user guide, build images, etc.
+Large-scale LED word clock with additional features such as scrolling message, rainbow color, etc. 
+See .pdf for user guide, build images, etc.
 
 Materials:
 ESP32 Wroom Module Breakout
